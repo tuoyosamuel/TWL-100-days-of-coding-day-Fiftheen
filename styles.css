@@ -1,0 +1,16 @@
+body{
+    font-family: Times;
+    height: 100vh;
+}
+
+table, th, td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    
+}
+
+h2, th, td{
+    text-align: center;
+}
+
